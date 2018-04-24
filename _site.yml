@@ -1,0 +1,7 @@
+name: "my-website"
+navbar:
+  title: "heh"
+  left:
+    - text: "HOME"
+      href: index.html
+    
