@@ -1,7 +1,9 @@
 name: "my-website"
 navbar:
-  title: "heh"
+  title: '<img src="assets/logo.png"  style="width:60px;"></img>'
   left:
     - text: "HOME"
       href: index.html
+    - text: "FAQ"
+      href: FAQ.html
     
